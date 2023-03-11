@@ -130,3 +130,28 @@ a {
     font-size: 0.75rem;
     padding: 20px
 }
+
+.rates-border{
+    background-color: #bae8e8;
+    padding: 100px;
+}
+.rates {
+    background-color: white;
+    line-height: 4;
+    border: solid;
+    margin: 50px;
+}
+.rates-table {
+    width: 100%;
+}
+
+.rates-heading {
+    background-color: white;
+    line-height: 4;
+    border: solid;
+    margin: 50px;
+}
+
+.rates-heading-table {
+        margin: auto;
+}
